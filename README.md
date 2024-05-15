@@ -1,3 +1,5 @@
+# WARNING - This repo will no longer be updated, see official CNCF repos as this work was merged there.
+
 # Cloud Native Landscape
 
 ![Cloud Native Landscape Logo](https://raw.githubusercontent.com/cncf/artwork/master/other/cncf-landscape/horizontal/color/cncf-landscape-horizontal-color.png)
